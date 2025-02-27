@@ -41,7 +41,7 @@ const Footer = () => {
               className="font-semibold tracking-widest text-2xl sm:text-3xl font-cursive
 "
             >
-              Coffee Cafe
+               Gud Coffee
             </a>
             <p className="  pt-4">
               Crafted Coffee, Cozy Vibes, Unforgettable Moments – Your Perfect
