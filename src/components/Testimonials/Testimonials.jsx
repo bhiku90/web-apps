@@ -5,32 +5,32 @@ import Slider from "react-slick";
 const TestimonialData = [
   {
     id: 1,
-    name: "FDCA",
-    text: "Since we started purchasing Coffee Café's roasted coffee, the quality of our coffee has improved significantly. Our customers have praised the rich flavor and unmistakable aroma. The impeccable service from Coffee Café ensures we always have fresh, high-quality beans for our discerning patrons. Highly recommended",
+    name: "Swapnil Sutar",
+    text: "Since we started purchasing Gud Coffee's roasted coffee, the quality of our coffee has improved significantly. Our customers have praised the rich flavor and unmistakable aroma. The impeccable service from  Gud Coffee ensures we always have fresh, high-quality beans for our discerning patrons. Highly recommended",
     img: "https://picsum.photos/101/101",
   },
   {
     id: 2,
-    name: "Hudson Federricó",
-    text: "I am a fan of espresso and was looking for a supplier that could guarantee fresh, high-quality beans. I discovered Coffee Café and have never looked back. The aroma and flavor are unparalleled. I highly recommend Coffee Café to all coffee lovers seeking quality and enjoyment in every cup.",
+    name: "Abrar Sayyad",
+    text: "I am a fan of espresso and was looking for a supplier that could guarantee fresh, high-quality beans. I discovered Gud Coffee and have never looked back. The aroma and flavor are unparalleled. I highly recommend Gud Coffee to all coffee lovers seeking quality and enjoyment in every cup.",
     img: "https://picsum.photos/102/102",
   },
   {
     id: 3,
-    name: "Robert Polyroes",
-    text: "We were looking for a reliable supplier for liquid coffee in large volumes. Coffee Café surprised us with their consistent quality and superior flavor. Now, we are partners with Coffee Café, confident that our customers will always have the best coffee experience",
+    name: "Saurabh Bhalerao",
+    text: "We were looking for a reliable supplier for liquid coffee in large volumes.  Gud Coffee surprised us with their consistent quality and superior flavor. Now, we are partners with Gud Coffee, confident that our customers will always have the best coffee experience",
     img: "https://picsum.photos/104/104",
   },
   {
     id: 4,
-    name: "Hannah Paula",
-    text: "I work in a café and test different coffee types daily. Since we started using Coffee Café’s Mocha, Latte, and Capuccino, our customers have noticed the difference and praised the refined flavor. Coffee Café is our go-to for high-quality coffee.",
+    name: "Ganesh Acharya",
+    text: "I work in a café and test different coffee types daily. Since we started using  GUdCoffe's Mocha, Latte, and Capuccino, our customers have noticed the difference and praised the refined flavor.  Gud Coffee is our go-to for high-quality coffee.",
     img: "https://picsum.photos/103/103",
   },
   {
     id: 5,
-    name: "Coffee Lounge",
-    text: "We were looking for a reliable coffee supplier for products like ground and liquid coffee. Coffee Café exceeded our expectations with exceptional espresso blends and personalized service. Today, our espresso stands out in the market, and we are grateful to Coffee Café for being part of our success!",
+    name: "Shivam Bhalerao",
+    text: "We were looking for a reliable coffee supplier for products like ground and liquid coffee. Gud Coffee exceeded our expectations with exceptional espresso blends and personalized service. Today, our espresso stands out in the market, and we are grateful to  Gud Coffee for being part of our success!",
     img: "https://picsum.photos/103/103",
   },
 ];

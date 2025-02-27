@@ -93,7 +93,7 @@ const Footer = () => {
                 Address
               </h1>
               <div>
-                <p className="mb-3">Angola, Luanda</p>
+                <p className="mb-3">Electronic City, Phase-I, Bengaluru</p>
                 <p>+244 123456789</p>
 
                 {/* social links */}

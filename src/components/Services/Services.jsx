@@ -20,7 +20,7 @@ const ServicesData = [
   {
     id: 3,
     img: Img2,
-    name: "Cappuccino",
+    name: " Gud Cappuccino",
     description:
       "Cappuccino delivers a perfect balance of rich espresso, creamy steamed milk, and frothy foam. The velvety texture and bold flavor profile make it a comforting and indulgent choice. Its equal parts of coffee, milk, and foam create a harmonious blend that’s ideal for those who enjoy a lighter coffee with a luxurious feel.",
     aosDelay: "500",
@@ -36,7 +36,7 @@ const ServicesData = [
   {
     id: 5,
     img: Img2,
-    name: "Mocha",
+    name: " Gud Mocha",
     description:
       "Mocha blends rich espresso with steamed milk and chocolate for a decadent and sweet coffee treat. Its combination of flavors delivers a comforting, dessert-like experience, making it ideal for those who enjoy a touch of indulgence. Mocha offers the perfect balance of coffee and chocolate, creating a rich and satisfying flavor profile.",
     aosDelay: "500",
@@ -44,7 +44,7 @@ const ServicesData = [
   {
     id: 6,
     img: Img2,
-    name: "Flat White",
+    name: "Gud Iced Latte",
     description:
       "Flat White combines rich espresso with velvety steamed milk, offering a smooth and creamy coffee experience. Its microfoam provides a rich texture without being overly milky, creating a balanced coffee flavor with a hint of sweetness. Perfect for those who enjoy a milder alternative to lattes with a more intense coffee taste.",
     aosDelay: "500",
@@ -60,7 +60,7 @@ const Services = () => {
           {/* Heading section  */}
           <div className="text-center mb-20">
             <h1 className="text-4xl font-bold font-cursive text-gray-800">
-              Best Coffee For You
+              Best Gud Coffee For You
             </h1>
           </div>
 

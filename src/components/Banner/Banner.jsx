@@ -36,13 +36,13 @@ const Banner = () => {
                   data-aos="fade-up"
                   className="text-3xl sm:text-4xl font-bold font-cursive"
                 >
-                  Premium Blend Coffee
+                  What we offer...!
                 </h1>
                 <p
                   data-aos="fade-up"
                   className="text-sm text-gray-500 tracking-wide leading-5"
                 >
-                 This premium blend offers a luxurious taste profile with notes of chocolate, caramel, and subtle fruitiness, complemented by a velvety texture. The careful roasting process enhances the unique characteristics of the beans, delivering a consistent and high-quality cup of coffee. Whether enjoyed as an espresso, latte, or cappuccino, this blend provides a superior coffee experience that satisfies even the most discerning palates.
+               At Gud Coffee Co., we believe in redefining the coffee experience by bringing the richness of tradition into the modern coffee culture. Our brand was born out of a simple yet powerful idea—why compromise on taste and health when you can have both ?
                 </p>
 
                 <div className="grid grid-cols-2 gap-6">
@@ -68,7 +68,7 @@ const Banner = () => {
                       <span>Cold Coffee</span>
                     </div>
                   </div>
-                  <div
+                  {/* <div
                     data-aos="slide-left"
                     className="border-l-4 border-primary/50 pl-6 space-y-2"
                   >
@@ -80,7 +80,7 @@ const Banner = () => {
                       requires patience, precision, and a dash of passion to
                       create a comforting blend of flavors. Brewing the perfect cup of tea, much like coding, demands patience, precision, and a touch of passion to craft a comforting and flavorful experience.
                     </p>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>
